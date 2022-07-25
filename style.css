@@ -28,3 +28,7 @@ button.carousel-control-next {
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.categories img {
+    width: 100px;
+}
